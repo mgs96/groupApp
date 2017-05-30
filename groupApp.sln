@@ -11,6 +11,8 @@ Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "groupApp", "groupApp\groupA
 EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		groupApp\groupApp\groupApp.projitems*{70d5ee7f-3a18-467e-9e42-7089f1bd0ebd}*SharedItemsImports = 4
+		groupApp\groupApp\groupApp.projitems*{83a2ee0e-681b-46b8-8db0-5e90800f244e}*SharedItemsImports = 4
 		groupApp\groupApp\groupApp.projitems*{e00f9d9b-21e2-49dc-8a52-dafe09c5fe45}*SharedItemsImports = 13
 	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
